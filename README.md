@@ -1,5 +1,7 @@
 ---
 license: odc-by
+language:
+- en
 ---
 
 # Objaverse
