@@ -2,6 +2,7 @@
 license: odc-by
 language:
 - en
+viewer: false
 ---
 
 # Objaverse
